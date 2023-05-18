@@ -16,5 +16,8 @@
 	div {
 		border-top: 3px solid lightcoral;
         display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
 	}
 </style>
