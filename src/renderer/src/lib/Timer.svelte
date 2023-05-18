@@ -1,11 +1,13 @@
 <script>
-
-
 	export let events;
 	export let handleDeleteEvent;
 </script>
 
 <div>
+    <div>
+        <h2>TIMER</h2>
+    </div>
+        <button type=""
 			<button on:click={() => handleDeleteEvent()}>START</button>
             <button on:click={() => handleDeleteEvent()}>RESET</button>
 
